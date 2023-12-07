@@ -38,10 +38,6 @@ The project follows a standard Flask directory structure with additional directo
 3. Run the Flask application: `python app.py`
 4. Access the web app in your browser: `http://localhost:5000`
 
-## Usage
-- Visit the main page to upload a chest X-ray image and receive a classification.
-- Explore other pages for additional information.
-
 ## Contributors
 - [Zeineb Zaiet](https://github.com/your-username)
 - [Sana Khamassi](https://github.com/Sanakhamassi)
