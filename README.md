@@ -49,7 +49,8 @@ The project follows a standard Flask directory structure with additional directo
 
 - [Zeineb Zaiet](https://github.com/your-username)
 - [Sana Khamassi](https://github.com/Sanakhamassi)
-- [Nada Ben taarit](https://github.com/contributor1)
+- [Nada Ben taarit](https://github.com/NadaBENTA
+ARIT)
 - [Feriel Ben Rjeeb](https://github.com/contributor2)
 
 ## License
