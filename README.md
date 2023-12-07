@@ -42,7 +42,6 @@ The project follows a standard Flask directory structure with additional directo
 ## Setup Instructions
 
 1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
-2. Install dependencies: `pip install -r requirements.txt`
 3. Run the Flask application: `python app.py`
 4. Access the web app in your browser: `http://localhost:5000`
 
