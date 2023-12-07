@@ -1,6 +1,5 @@
 from CNN_algorithm.CNN import build_and_train_model, classify_an_image, performance, pre_process, predict
 from flask import Flask
-import requests
 from flask import render_template
 from flask import request
 app = Flask(__name__)
@@ -30,7 +29,6 @@ def upload_file():
                 model = build_and_train_model(x_train, y_train_lb, x_test, y_test_lb)
                 performance(model, x_test, y_test_lb)
                 predict(model, x_test, y_test)
-                model.save('my_model.keras')
 
             predicted_class = classify_an_image('static/images/img.png', model)
             print("Predicted Class:", predicted_class)
