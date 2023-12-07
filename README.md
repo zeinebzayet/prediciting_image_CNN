@@ -26,12 +26,10 @@ The project follows a standard Flask directory structure with additional directo
 
 - **Model File:**
   - **custom_cnn_model.h5:** Saved Keras model file for chest X-ray classification.
-
 ## Technologies Used
-- **Python:** Programming language used for the backend logic.
-- **Flask:** Web framework used for building the web application.
-- **TensorFlow:** Machine learning library used for implementing the Convolutional Neural Network.
-
+- **Python:** Programming language used for the backend logic. ![Python Icon](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- **Flask:** Web framework used for building the web application. ![Flask Icon](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+- **TensorFlow:** Machine learning library used for implementing the Convolutional Neural Network. ![TensorFlow Icon](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ## Setup Instructions
 1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
 2. Install dependencies: `pip install -r requirements.txt`
